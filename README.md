@@ -1,3 +1,3 @@
-# My Portfolio Website
+# Dylan's Portfolio Website
 
-This personal website was built off of the Greyscale startbootstrap template.
+Follow [dylanlowes.dev](dylanlowes.dev) to check it out!
