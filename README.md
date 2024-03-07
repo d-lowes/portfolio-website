@@ -1,6 +1,6 @@
 # Dylan's Portfolio Website
 
-[dylanlowes.dev](https://dylanlowes.dev)
+🌐 Follow the link: [dylanlowes.dev](https://dylanlowes.dev)
 
 Welcome to the GitHub repository for my personal portfolio website, "Dylan the Dev". This website serves as a comprehensive showcase of my skills, projects, and interests in the field of Information Technology and software development.
 
